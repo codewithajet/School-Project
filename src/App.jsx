@@ -44,7 +44,7 @@ const App = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center space-x-4">
             <div className="relative">
-                <img src="src\assets\logo.jpg" className='w-15 h-15 rounded-full bg-gradient-to-br from-blue-600 to-blue-800 flex items-center justify-center shadow-lg' alt="" />
+                <img src="https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091154/School-Project/logo_anrqks.jpg" className='w-15 h-15 rounded-full bg-gradient-to-br from-blue-600 to-blue-800 flex items-center justify-center shadow-lg' alt="" />
               {/* <div className="absolute -top-1 -right-1 w-5 h-5 bg-red-500 rounded-full animate-pulse"></div> */}
             </div>
             <div>
@@ -463,27 +463,27 @@ const GalleryPage = () => {
   const galleryImages = [
     {
       id: 1,
-      src: "src/assets/WhatsApp Image 2025-07-20 at 21.12.21_23389e66.jpg",
+      src: "https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091155/School-Project/WhatsApp_Image_2025-07-20_at_21.12.21_23389e66_okbdp0.jpg",
     },
     {
       id: 2,
-      src: "src/assets/WhatsApp Image 2025-07-20 at 22.43.31_4b0c4a08.jpg",
+      src: "https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091401/School-Project/WhatsApp_Image_2025-07-20_at_22.43.31_4b0c4a08_lklaoz.jpg",
     },
     {
       id: 3,
-      src: "src/assets/WhatsApp Image 2025-07-20 at 22.43.30_78d66736.jpg",
+      src: "https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091155/School-Project/WhatsApp_Image_2025-07-20_at_22.43.30_78d66736_pzuu1d.jpg",
     },
     {
       id: 4,
-      src: "src/assets/WhatsApp Image 2025-07-20 at 22.43.28_c4fe0c16.jpg",
+      src: "https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091154/School-Project/WhatsApp_Image_2025-07-20_at_22.43.28_c4fe0c16_bmg7yj.jpg",
     },
     {
       id: 5,
-      src: "src/assets/WhatsApp Image 2025-07-20 at 21.14.53_b8bee6f8.jpg",
+      src: "https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091154/School-Project/WhatsApp_Image_2025-07-20_at_21.14.52_3c2dbb80_xihe6i.jpg",
     },
     {
       id: 6,
-      src: "src/assets/WhatsApp Image 2025-07-20 at 21.14.52_3c2dbb80.jpg",
+      src: "https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091154/School-Project/WhatsApp_Image_2025-07-20_at_21.14.53_b8bee6f8_vh7frz.jpg",
     }
   ];
 
@@ -1381,7 +1381,7 @@ const Footer = () => (
           {/* Brand Section */}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-3 mb-6">
-              <img src='src\assets\logo.jpg' className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-700 rounded-2xl flex items-center justify-center shadow-lg">
+              <img src='https://res.cloudinary.com/dqhcroiw8/image/upload/v1753091154/School-Project/logo_anrqks.jpg' className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-700 rounded-2xl flex items-center justify-center shadow-lg">
               </img>
               <div>
                 <h3 className="text-2xl font-bold">LASU</h3>
